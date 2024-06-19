@@ -199,7 +199,7 @@ for col in num_cols:
     if check_outlier(df,col):
         replace_with_thresholds(df,col)
     
-
+# ÖZELLİK ÇIKARIMI 
 # Tenure  değişkeninden yıllık kategorik değişken oluşturma
 df.loc[(df["tenure"]>=0) & (df["tenure"]<=12),"NEW_TENURE_YEAR"] = "0-1 Year"
 df.loc[(df["tenure"]>12) & (df["tenure"]<=24),"NEW_TENURE_YEAR"] = "1-2 Year"
