@@ -14,9 +14,7 @@ Bu proje, Flask web framework'ü kullanılarak geliştirilmiş bir müşteri kay
 7. [Model Değerlendirme](#model-değerlendirme)
 8. [Sonuç ve Değerlendirme](#sonuç-ve-değerlendirme)
 9. [Kullanılan Kütüphaneler](#kullanılan-kütüphaneler)
-10. [Kurulum](#kurulum)
-11. [Yazar](#yazar)
-12. [Teşekkür](#teşekkür)
+
 
 ## Giriş
 
